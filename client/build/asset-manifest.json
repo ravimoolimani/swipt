@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.05570154.css",
+    "main.js": "/static/js/main.54d75c17.js",
+    "static/media/food.jpg": "/static/media/food.039edb634cac14aec439.jpg",
+    "static/media/all.jpg": "/static/media/all.c3e9f183ebaabfe5dd3d.jpg",
+    "static/media/health.jpg": "/static/media/health.a743b8dbb9fbb58d5a1e.jpg",
+    "static/media/travel.jpg": "/static/media/travel.ccb2024679fb7a916ca3.jpg",
+    "static/media/education.jpg": "/static/media/education.d2477a24f0a97c0014f4.jpg",
+    "static/media/movie.jpg": "/static/media/movie.e90ddd9d1dac35c6bcce.jpg",
+    "index.html": "/index.html",
+    "static/media/share.svg": "/static/media/share.5138115273b1561bacc2dfe023d53442.svg",
+    "main.05570154.css.map": "/static/css/main.05570154.css.map",
+    "main.54d75c17.js.map": "/static/js/main.54d75c17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05570154.css",
+    "static/js/main.54d75c17.js"
+  ]
+}
